@@ -11,7 +11,7 @@
     <div>
         <asp:Label ID="lbL_msg" runat="server"></asp:Label>
         <br />
-        <a href="WebForm1.aspx" runat="server">Go Back</a>
+        <a href="WebForm3.aspx" runat="server">Logout</a>
     </div>
     </form>
 </body>
